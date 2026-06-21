@@ -24,14 +24,14 @@ Wang Yuntao, Associate Professor, PhD supervisor
 Office address: Pengkang Building, No. 28 Xianning West Road, Beilin District, Xi'an, Shaanxi Province, 710049
 Email:  yuntao.wang@xjtu.edu.cn
 
-<span class='anchor' id='-jl'></span>
+<span class='anchor' id='-educations'></span>
 
 # 🎓 Education & Work Experience
 - *2022.9*, PhD. Xi'an Jiaotong University.
 - *2022.12*, Assistant Professor, Master's supervisor, Xi'an Jiaotong University.
 - *2026.6*, Associate Professor, PhD supervisor, Xi'an Jiaotong University.
  
-<span class='anchor' id='-lwcg'></span>
+<span class='anchor' id='-publications'></span>
 
 # 📝 Publications
 
@@ -162,9 +162,9 @@ Email:  yuntao.wang@xjtu.edu.cn
 25. Yanghe Pan, Zhou Su, `Yuntao Wang`, Shaolong Guo, Han Liu, Ruidong Li, and Yuan Wu, "Cloud-Edge Collaborative Large Model Services: Challenges and Solutions," **IEEE Network**, 39(4): 56–63 (2025) IF:8.8 ![JCR Q1](https://img.shields.io/badge/JCR--Q1-9C27B0?style=flat-square) 
 
 
-<span class='anchor' id='-gjjx'></span>
+<span class='anchor' id='-awards'></span>
 
-# 🏅 Honors and Awards
+# 🏅 Awards
 - **2025 Clarivate Highly Cited Researchers**
 - **2023 National Postdoctoral Program for Innovative Talent (Boxin Plan)**
 - **2024 CIE Outstanding Doctoral Dissertation**
@@ -176,7 +176,7 @@ Email:  yuntao.wang@xjtu.edu.cn
 - **IEEE AIoT2024 (Australia) Best Paper Award**, 2024, IEEE Communications Society
 - **IEEE MetaCom2025 (South Korea) Best Paper Award**, 2025, IEEE Communications Society
 
-<span class='anchor' id='-xsfw'></span>
+<span class='anchor' id='services'></span>
 
 # 🏛️ Academic Services
 1. Editorial Board Member
