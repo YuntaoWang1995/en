@@ -16,7 +16,7 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
-**Wang Yuntao, Associate Professor, PhD supervisor**
+**Wang Yuntao, Associate Professor, PhD supervisor, School of Cyber Science and Engineering, Xi'an JiaoTong University (XJTU)**
 
 📌Published papers in top journals/conference such as IEEE S&P, USENIX Security, IEEE TIFS, and IEEE TDSC in the field of network security; IEEE/ACM TON, and IEEE JSAC in the field of computer networks; IEEE INFOCOM in the field of communication. 
 
@@ -24,7 +24,7 @@ redirect_from:
   <img src="https://img.shields.io/badge/Google%20Scholar-Citations-blue?logo=googlescholar&logoColor=white" alt="Google Scholar">
 </a>
 
-Office address: Pengkang Building, No. 28 Xianning West Road, Beilin District, Xi'an, Shaanxi Province, 710049
+Office address: Pengkang Building, No. 28 Xianning West Road, Beilin District, Xi'an, Shaanxi Province 710049, China
 
 Email:  yuntao.wang@xjtu.edu.cn
 
