@@ -16,155 +16,202 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
+王云涛、西安交通大学 网络空间安全学院 特聘研究员（副教授）、博士生导师
 
-I graduated from School of Mechanical Science and Engineering,  Huazhong University of Science and Technology, Wuhan China. with a doctor’s degree, advised by Yihua Kang and from School of Mechanical Engineering, Sichuan University, Chengdu China with a bachelor’s degree. I have published 20+ papers with 
- <a href='https://scholar.google.com/citations?user=WMkMTb4AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
+- 入选2025年度**科睿唯安全球高被引学者（Clarivate Highly Cited Researchers）**
+- 入选2023年度**国家博士后创新人才支持计划（博新计划）**
+- 入选2024年度**中国电子学会博士学位论文激励计划（优博）**
+- 2023~2025年度连续入选**全球前2%顶尖科学家**
+- 入选2026年度**西安交通大学青年拔尖人才支持计划B类**
 
-My research interest includes: 
-- Instrumentation
-- Nondestructive testing (NDT)
-- Magnetic flux leakage (MFL) detection
-- Eddy current testing (ECT)
-- Electromagnetic measurements
-- Magnetic sensors
-- Nondestructive testing equipment
+📌研究领域：聚焦**国家空天地安全战略**，长期从事低空无人机网络安全、智能无人系统安全、多智能体协同与对抗领域研究。
+- 学术贡献：在**网络安全领域顶级会议IEEE S&P、USENIX Security**；**网络安全领域顶级期刊IEEE TIFS、IEEE TDSC**；**计算机网络领域顶级期刊/会议IEEE/ACM TON、IEEE INFOCOM**；**通信领域顶级期刊IEEE JSAC、IEEE TMC、中国科学：信息科学**发表多篇高水平论文， **11 篇文章入选ESI 高被引论文(ESI Highly Cited, 全球引用率前1%)**，**2 篇入选 ESI 热点论文 (ESI Hot, 全球引用率前0.1%)**。
+- 学术引用：**论文总引用次数7900 余次**，**单篇引用次数逾2000次**（谷歌学术截至2026年6月） <a href='https://scholar.google.com/citations?user=90fr-8wAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=引用"></a>，**16篇论文引用次数过百**，**单篇IF:达46.7**。
+- 国际获奖：入选2025年度**科睿唯安全球高被引学者**（Clarivate Highly Cited Researchers）、2023~2025年度**全球前2%顶尖科学家**、2023年度**国家博士后创新人才支持计划（博新计划）**、2024年度**中国电子学会博士学位论文激励计划（优博）**、西安交通大学青年拔尖人才支持计划B类。研究工作获得**IEEE BigDataSE2019 国际会议年度最佳论文奖**（新西兰举办）、**IEEE IWCMC2022 国际会议年度最佳论文奖**（克罗地亚举办）、**IEEE SmartCloud2024 国际会议年度最佳论文奖**（美国纽约举办）、**IEEE AIoT2024 国际会议年度最佳论文奖**（澳大利亚墨尔本举办）、**IEEE MetaCom2025 国际会议年度最佳论文奖**（韩国首尔举办）等**IEEE国际会议最佳论文奖共5项**。
+- 主持项目：先后主持**国家自然科学基金青年项目、科技部国家重点研发计划子课题、国家博新计划、博士后面上项目、陕西省博士后项目**等多项国家/省部级项目。
 
+联系邮箱：yuntao.wang@xjtu.edu.cn
+办公室地址：西安交通大学（兴庆校区）彭康楼
 
-# 🎓 Educations 
-- *2016.06 - 2022.12*, <a href="http://english.hust.edu.cn/"><img class="svg" src="/images/HUST_logo.svg" width="23pt"></a> School of Mechanical Science and Engineering, Huazhong University of Science and Technology, Wuhan China. 
-- *2012.09 - 2016.06*, <a href="https://en.scu.edu.cn/"><img class="svg" src="/images/SCU_logo.svg" width="20pt"></a> School of Manufacturing Science and Engineering, Sichuan University, Chengdu China. 
+<span class='anchor' id='-jl'></span>
+
+# 🎓 教育与工作经历
+- *2022.9*, 博士毕业于西安交通大学
+- *2022.12*, 西安交通大学 电信学部 网络空间安全学院，担任助理教授、硕士生导师
+- *2026.6*, 西安交通大学 电信学部 网络空间安全学院，担任特聘研究员（副教授）、博士生导师
  
+<span class='anchor' id='-lwcg'></span>
 
-# 📝 Publications 
+# 📝 论文成果
 
-### English 
----
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Sensors 2022</div><img src='images/sensors2022.svg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+1. `Yuntao Wang`, Zhou Su, Ning Zhang, Rui Xing, Dongxiao Liu, Tom H. Luan, and Xuemin Shen, "A Survey on Metaverse: Fundamentals, Security, and Privacy," **IEEE Communications Surveys & Tutorials (COMST)**, 25(1): 319-352 (2023) ![IF](https://img.shields.io/badge/IF-50.6-red?style=flat-square) **计算机与信息领域IF:最高期刊（IF:50.6）** ![ESI Hot](https://img.shields.io/badge/ESI%20Hot%20Paper-🔥-red?style=flat-square) **ESI热点论文（全球引用率前0.1%）** ![Citations](https://img.shields.io/badge/Cited%20by-2100-blue?style=flat-square) **谷歌学术被引2000余次** 🔗 [PDF](https://arxiv.org/pdf/2203.02662) · [Cite](...)
 
--	`Jian Tang`, Rongbiao Wang, Gongzhe Qiu, Yu Hu, Yihua Kang. Mechanism of magnetic flux leakage detection method based on the slotted ferromagnetic lift-off layer. *Sensors*. 2022, 22(9): 3587. (JCR:Q2; IF:3.847)  
-[[HTML]](https://dx.doi.org/10.3390/s22093587) [[Preview]](https://github.com/tangjyan/tangjyan.github.io/blob/main/pdf/TangJ-2022-Mechanism%20of%20Magnetic%20Flux%20Leakage%20Detection%20Method%20Based%20on%20the%20Slotted.pdf) [[PDF]](/pdf/TangJ-2022-Mechanism%20of%20Magnetic%20Flux%20Leakage%20Detection%20Method%20Based%20on%20the%20Slotted.pdf)
+2. `Yuntao Wang`, Weiwei Chen, Tom H. Luan, Zhou Su, Qichao Xu, Ruidong Li, and Nan Chen, "Task Offloading for Post-Disaster Rescue in Unmanned Aerial Vehicles Networks," **IEEE/ACM Transactions on Networking (TON)**, 30(4): 1525-1539 (2022) ![CCF-A](https://img.shields.io/badge/CCF--A-red?style=flat-square) **计算机网络领域顶级期刊**，IF:5.3 ![Citations](https://img.shields.io/badge/Cited%20by-163-blue?style=flat-square) **谷歌学术被引163次**
 
-</div>
-</div>
+3. `Yuntao Wang`, Zhou Su, Qichao Xu, Ruidong Li, Tom H. Luan, and Pinghui Wang, "A Secure and Intelligent Data Sharing Scheme for UAV-Assisted Disaster Rescue," **IEEE/ACM Transactions on Networking (TON)**, 31(6): 2422-2438 (2023) ![CCF-A](https://img.shields.io/badge/CCF--A-red?style=flat-square) **计算机网络领域顶级期刊**，IF:5.3 ![Citations](https://img.shields.io/badge/Cited%20by-154-blue?style=flat-square) **谷歌学术被引154次**
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Sens. Actuators Phys. 2021</div><img src='images/sna2021.svg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+4. `Yuntao Wang`, Haixia Peng, Zhou Su, Tom H. Luan, Abderrahim Benslimane, and Yuan Wu, "A Platform-Free Proof of Federated Learning Consensus Mechanism for Sustainable Blockchains," **IEEE Journal on Selected Areas in Communications (JSAC)**, 40(12): 3305-3324 (2022) ![CCF-A](https://img.shields.io/badge/CCF--A-red?style=flat-square) **网络通信领域顶级期刊**，IF:16.8 ![Citations](https://img.shields.io/badge/Cited%20by-116-blue?style=flat-square) **谷歌学术被引116次**
 
--	`Jian Tang`, Rongbiao Wang, Bocheng Liu, Yihua Kang. A novel magnetic flux leakage method based on the ferromagnetic lift-off layer with through groove. *Sensors and Actuators A: Physical*. 2021: 113091. (JCR:Q1; IF:4.291)  
-[[HTML]](https://dx.doi.org/10.1016/j.sna.2021.113091) [[Preview]](https://github.com/tangjyan/tangjyan.github.io/blob/main/pdf/TangJ-2021-A%20novel%20magnetic%20flux%20leakage%20method%20based%20on%20the%20ferromagnetic%20lift-off%20layer.pdf) [[PDF]](/pdf/TangJ-2021-A%20novel%20magnetic%20flux%20leakage%20method%20based%20on%20the%20ferromagnetic%20lift-off%20layer.pdf)
+5. `Yuntao Wang`, Zhou Su, Qichao Xu, Ruidong Li, and Tom H. Luan, "Lifesaving with RescueChain: Energy-Efficient and Partition-Tolerant Blockchain Based Secure Information Sharing for UAV-Aided Disaster Rescue," **Proceedings of IEEE INFOCOM**, 1-10 (2021) ![CCF-A](https://img.shields.io/badge/CCF--A-red?style=flat-square) **网络通信领域顶级会议** ![ESI Highly Cited](https://img.shields.io/badge/ESI%20Highly%20Cited-orange?style=flat-square) **ESI高被引论文（全球引用率前1%）** ![Citations](https://img.shields.io/badge/Cited%20by-92-blue?style=flat-square) **谷歌学术被引92次**
 
-</div>
-</div>
+6. `Yuntao Wang`, Zhou Su, Abderrahim Benslimane, Qichao Xu, Minghui Dai, and Ruidong Li, "Collaborative Honeypot Defense in UAV Networks: A Learning-Based Game Approach," **IEEE Transactions on Information Forensics and Security (TIFS)**, 19: 1963-1978 (2024) ![CCF-A](https://img.shields.io/badge/CCF--A-red?style=flat-square) **网络与信息安全领域顶级期刊**，IF:8.7
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Int. J. Appl. Electrom. 2020</div><img src='images/ijaem2020.svg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+7. `Yuntao Wang`, Zhou Su, Tom H. Luan, Jiliang Li, Qichao Xu, and Ruidong Li, "SEAL: A Strategy-Proof and Privacy-Preserving UAV Computation Offloading Framework," **IEEE Transactions on Information Forensics and Security (TIFS)**, 18: 5213-5228 (2023) ![CCF-A](https://img.shields.io/badge/CCF--A-red?style=flat-square) **网络与信息安全领域顶级期刊**，IF:8.7
 
--	`Jian Tang`, Rongbiao Wang, Jikai Zhang, Yihua Kang. The influence of magnetic head’s pose on magnetic flux leakage detection. *International Journal of Applied Electromagnetics and Mechanics*. 2020, 64(1–4): 493–500. (JCR:Q4; IF:0.536)  
-[[HTML]](https://dx.doi.org/10.3233/JAE-209356) [[Preview]](https://github.com/tangjyan/tangjyan.github.io/blob/main/pdf/TangJ-2020-The%20influence%20of%20magnetic%20head%E2%80%99s%20pose%20on%20magnetic%20flux%20leakage%20detection.pdf) [[PDF]](/pdf/TangJ-2020-The%20influence%20of%20magnetic%20head%E2%80%99s%20pose%20on%20magnetic%20flux%20leakage%20detection.pdf)
+8. `Yuntao Wang`, Kun Qian, Yanghe Pan, Zhou Su, and Wei Wang, "Privacy-Utility Trade-Off in Federated LLM Fine-Tuning: A Dynamic Game Approach," **IEEE Transactions on Networking (TON)**, 34: 3242-3257 (2026) ![CCF-A](https://img.shields.io/badge/CCF--A-red?style=flat-square) **计算机网络领域顶级期刊**，IF:5.3
 
-</div>
-</div>
+9. `Yuntao Wang`, Zhou Su, Yanghe Pan, Tom H. Luan, Ruidong Li, and Shui Yu, "Social-Aware Clustered Federated Learning With Customized Privacy Preservation," **IEEE/ACM Transactions on Networking (TON)**, 32(5): 3654-3668 (2024) ![CCF-A](https://img.shields.io/badge/CCF--A-red?style=flat-square) **计算机网络领域顶级期刊**，IF:5.3
 
-- Bo Feng, Jianbo Wu, Hongming Tu, `Jian Tang`, Yihua Kang. A Review of Magnetic Flux Leakage Nondestructive Testing. *Materials*. 2022, 15(20): 7362. (JCR:Q1; IF:3.748)  
-[[HTML]](https://dx.doi.org/10.3390/ma15207362) [[Preview]](https://github.com/tangjyan/tangjyan.github.io/blob/main/pdf/FengB-2022-A%20Review%20of%20Magnetic%20Flux%20Leakage%20Nondestructive%20Testing.pdf) [[PDF]](/pdf/FengB-2022-A%20Review%20of%20Magnetic%20Flux%20Leakage%20Nondestructive%20Testing.pdf)
+10. Zhou Su（博士导师苏洲）, `Yuntao Wang`, Qichao Xu, and Ning Zhang, "LVBS: Lightweight Vehicular Blockchain for Secure Data Sharing in Disaster Rescue," **IEEE Transactions on Dependable and Secure Computing (TDSC)**, 19(1): 19-32 (2022) ![CCF-A](https://img.shields.io/badge/CCF--A-red?style=flat-square) **网络与信息安全领域顶级期刊**，IF:6.8 ![ESI Hot](https://img.shields.io/badge/ESI%20Hot%20Paper-🔥-red?style=flat-square) **ESI热点论文（全球引用率前0.1%）** ![Citations](https://img.shields.io/badge/Cited%20by-280-blue?style=flat-square) **谷歌学术被引280次**
+
+11. `Yuntao Wang`, Zhou Su, Jianbing Ni, Ning Zhang, and Xuemin Shen, "Blockchain-Empowered Space-Air-Ground Integrated Networks: Opportunities, Challenges, and Solutions," **IEEE Communications Surveys & Tutorials (COMST)**, 24(1): 160-209 (2022) ![IF](https://img.shields.io/badge/IF-50.6-red?style=flat-square) **计算机与信息领域IF:最高期刊（IF:50.6）** ![ESI Highly Cited](https://img.shields.io/badge/ESI%20Highly%20Cited-orange?style=flat-square) **ESI高被引论文（Top 1%）** ![Citations](https://img.shields.io/badge/Cited%20by-259-blue?style=flat-square) **谷歌学术被引259次** [中文导读](https://www.cnblogs.com/W-Yentl/p/20175571) 
+
+12. `Yuntao Wang`, Yanghe Pan, Zhou Su, Yi Deng, Quan Zhao, Linkang Du, Tom H. Luan, Jiawen Kang, and Dusit Niyato, "Large Model-Based Agents: State-of-the-Art, Cooperation Paradigms, Security and Privacy, and Future Trends," **IEEE Communications Surveys & Tutorials (COMST)**, 28: 1906-1949 (2026) ![IF](https://img.shields.io/badge/IF-50.6-red?style=flat-square) **计算机与信息领域IF:最高期刊（IF:50.6）** ![ESI Highly Cited](https://img.shields.io/badge/ESI%20Highly%20Cited-orange?style=flat-square) **ESI高被引论文（Top 1%）** ![Citations](https://img.shields.io/badge/Cited%20by-92-blue?style=flat-square) **谷歌学术被引92次** 🔗 [PDF](https://arxiv.org/pdf/2409.14457) 
+
+13. `Yuntao Wang`, Zhou Su, Ning Zhang, and Abderrahim Benslimane, "Learning in the Air: Secure Federated Learning for UAV-Assisted Crowdsensing," **IEEE Transactions on Network Science and Engineering (TNSE)**, 8(2): 1055-1069 (2021) **网络管理领域顶级期刊**，IF:7.3 ![ESI Highly Cited](https://img.shields.io/badge/ESI%20Highly%20Cited-orange?style=flat-square) **ESI高被引论文（Top 1%）** ![Citations](https://img.shields.io/badge/Cited%20by-365-blue?style=flat-square) **谷歌学术被引365次**
+
+14. `Yuntao Wang`, Zhou Su, Ning Zhang, Jianfei Chen, Xin Sun, Zhiyuan Ye, and Zhenyu Zhou, "SPDS: A Secure and Auditable Private Data Sharing Scheme for Smart Grid Based on Blockchain," **IEEE Transactions on Industrial Informatics (TII)**, 17(11): 7688-7699 (2021) **工业信息领域顶级期刊**，IF:9.9 ![Citations](https://img.shields.io/badge/Cited%20by-193-blue?style=flat-square) **谷歌学术被引193次**
+
+15. `Yuntao Wang`, Zhou Su, and Ning Zhang, "BSIS: Blockchain-Based Secure Incentive Scheme for Energy Delivery in Vehicular Energy Network," **IEEE Transactions on Industrial Informatics (TII)**, 15(6): 3620-3631 (2019) **工业信息领域顶级期刊**，IF:9.8 ![Citations](https://img.shields.io/badge/Cited%20by-265-blue?style=flat-square) **谷歌学术被引265次**
+
+30. `Yuntao Wang`, Zhou Su, Tom H. Luan, Ruidong Li, and Kuan Zhang, "Federated Learning With Fair Incentives and Robust Aggregation for UAV-Aided Crowdsensing," **IEEE Transactions on Network Science and Engineering (TNSE)**, 9(5): 3179-3196 (2022) **网络管理领域顶级期刊**，IF:7.3 ![Citations](https://img.shields.io/badge/Cited%20by-118-blue?style=flat-square) **谷歌学术被引118次**
+
+26. `Yuntao Wang`, Zhou Su, Qichao Xu, Tom H. Luan, and Rongxing Lu, "Secured and Cooperative Publish/Subscribe Scheme in Autonomous Vehicular Networks," **IEEE Transactions on Intelligent Transportation Systems (TITS)**, 25(3): 2235-2252 (2024) **智能交通领域顶级期刊**，IF:9.1
+    
+31. `Yuntao Wang`, Tom H. Luan, Zhou Su, Ning Zhang, and Abderrahim Benslimane, "A Secure and Efficient Wireless Charging Scheme for Electric Vehicles in Vehicular Energy Networks," **IEEE Transactions on Vehicular Technology (TVT)**, 71(2): 1491-1508 (2022) **车辆网络领域顶级期刊**，IF:7.5
+
+32. `Yuntao Wang`, Zhou Su, Jiliang Li, Ning Zhang, Kuan Zhang, Kim-Kwang Raymond Choo, and Yang Liu, "Blockchain-Based Secure and Cooperative Private Charging Pile Sharing Services for Vehicular Networks," **IEEE Transactions on Vehicular Technology (TVT)**, 71(2): 1857-1874 (2022) **车辆网络领域顶级期刊**，IF:7.5
+
+36. `Yuntao Wang`, Zhou Su, Qichao Xu, Tingting Yang, and Ning Zhang, "A Novel Charging Scheme for Electric Vehicles With Smart Communities in Vehicular Networks," **IEEE Transactions on Vehicular Technology (TVT)**, 68(9): 8487-8501 (2019) **车辆网络领域顶级期刊**，IF:7.5 ![Citations](https://img.shields.io/badge/Cited%20by-97-blue?style=flat-square) **谷歌学术被引97次**
+
+34. Zhou Su（博士导师苏洲）, `Yuntao Wang`, Tom H. Luan, Ning Zhang, Fan Li, Tianyu Chen, and Hong Cao, "Secure and Efficient Federated Learning for Smart Grid With Edge-Cloud Collaboration," **IEEE Transactions on Industrial Informatics (TII)**, 18(2): 1333-1344 (2022) **工业信息领域顶级期刊**，IF:9.8 ![ESI Highly Cited](https://img.shields.io/badge/ESI%20Highly%20Cited-orange?style=flat-square) **ESI高被引论文（Top 1%）** ![Citations](https://img.shields.io/badge/Cited%20by-357-blue?style=flat-square) **谷歌学术被引357次**
+
+20. `Yuntao Wang`, Shaolong Guo, Yanghe Pan, Zhou Su, Fahao Chen, Tom H. Luan, Peng Li, Jiawen Kang, and Dusit Niyato, "Internet of Agents: Fundamentals, Applications, and Challenges," **IEEE Transactions on Cognitive Communications and Networking (TCCN)**, 12: 4476-4501 (2026) **认知通信网络领域顶级期刊**，IF:8.0 [中文导读](https://zhuanlan.zhihu.com/p/1909730947538089007) 🔗 [PDF](https://arxiv.org/pdf/2505.07176) 
+
+21. `Yuntao Wang`, Yanghe Pan, Shaolong Guo, and Zhou Su, "Security of Internet of Agents: Attacks and Countermeasures," **IEEE Open Journal of the Computer Society (OJCS)**, 6: 1611-1624 (2025) **计算机网络领域旗舰期刊**，IF:6.0 🔗 [PDF](https://www.computer.org/csdl/journal/oj/2025/01/11081880/28oAHZAcmI0) 
+
+27. `Yuntao Wang`, Yanghe Pan, Miao Yan, Zhou Su, and Tom H. Luan, "A Survey on ChatGPT: AI-Generated Contents, Challenges, and Solutions," **IEEE Open Journal of the Computer Society (OJCS)**, 4: 280-302 (2023) **计算机网络领域旗舰期刊**，IF:6.0 ![Citations](https://img.shields.io/badge/Cited%20by-502-blue?style=flat-square) **谷歌学术被引502次** [中文导读](https://www.cnblogs.com/W-Yentl/p/17456702.html) 🔗 [PDF](https://www.computer.org/csdl/journal/oj/2023/01/10221755/1PELXFR2hdS) 
+
+19. `Yuntao Wang`, Xiaolin Niu, Jianle Ba, Zhou Su, and Linkang Du, "Navigating Embodied Intelligence: Enabling Technologies, Security and Privacy, and Emerging Trends," **IEEE Internet of Things Journal (IoT-J)**, 13(6): 10317-10338 (2026) **物联网领域旗舰期刊**，IF:8.7 🔗 [PDF](https://www.techrxiv.org/doi/pdf/10.36227/techrxiv.175099923.39087347/v1?onload=true) 
+
+28. `Yuntao Wang`, Zhou Su, Shaolong Guo, Minghui Dai, Tom H. Luan, and Yiliang Liu, "A Survey on Digital Twins: Architecture, Enabling Technologies, Security and Privacy, and Future Prospects," **IEEE Internet of Things Journal (IoT-J)**, 10(17): 14965-14987 (2023) **物联网领域旗舰期刊**，IF:8.7 ![ESI Highly Cited](https://img.shields.io/badge/ESI%20Highly%20Cited-orange?style=flat-square) **ESI高被引论文（Top 1%）** ![Citations](https://img.shields.io/badge/Cited%20by-429-blue?style=flat-square) **谷歌学术被引429次** [中文导读](https://www.cnblogs.com/W-Yentl/p/18048235) 🔗 [PDF](https://arxiv.org/pdf/2301.13350) 
+
+37. Zhou Su（博士导师苏洲）, `Yuntao Wang`, Qichao Xu, Minrui Fei, Yiming Tian, and Ning Zhang, "A Secure Charging Scheme for Electric Vehicles With Smart Communities in Energy Blockchain," **IEEE Internet of Things Journal (IoT-J)**, 6(3): 4601-4613 (2019) **物联网领域旗舰期刊**，IF:8.7 ![ESI Highly Cited](https://img.shields.io/badge/ESI%20Highly%20Cited-orange?style=flat-square) **ESI高被引论文（Top 1%）** ![Citations](https://img.shields.io/badge/Cited%20by-472-blue?style=flat-square) **谷歌学术被引472次**
+
+16. `王云涛`, 何春林, 苏洲, "面向高级持续性威胁的卫星互联网最优修复策略," **中国科学: 信息科学**, 56(3): 603-619 (2026) **CCF-T1类中文期刊，中科院一区，IF:8.1**，计算机与信息领域中文顶刊 🔗 [PDF](http://scis.scichina.com/cn/2026/SSI-2025-0462.pdf) 
+
+17. `王云涛`, 苏洲, 许其超, 刘怡良, 彭海霞, 栾浩, "基于审计博弈的安全协作频谱感知方案," **通信学报**, 44(12): 1-14 (2023) **CCF-T1类推荐中文期刊**，通信领域中文顶刊 🔗 [PDF](https://www.joconline.com.cn/previewFile?id=75612005&type=pdf&lang=zh) 
+
+18. `王云涛`, 苏洲, 高源, 巴建乐, "低空智联网架构、安全与优化关键技术," **电子与信息学报**, 48(3): 889-913 (2026) **CCF-T1类中文期刊，入选封面文章、领军专栏**，电子信息领域中文顶刊 🔗 [PDF](https://jeit.ac.cn/cn/article/doi/10.11999/JEIT250947?viewType=HTML) 
+    
+23. `Yuntao Wang`, Qinnan Hu, Zhou Su, Linkang Du, Qichao Xu, and Weiwei Li, "Large Model Empowered Metaverse: State-of-the-Art, Challenges and Opportunities," **IEEE Network**, DOI: 10.1109/MNET.2025.3597127 (2025) **网络领域权威期刊**，IF:8.8 ![JCR Q1](https://img.shields.io/badge/JCR--Q1-9C27B0?style=flat-square) 
+
+24. `Yuntao Wang`, Qinnan Hu, Zhendong Li, Zhou Su, Ruidong Li, Xiang Zou, and Jian Zhou, "Blockchain-Envisioned UAV-Aided Disaster Relief Networks: Challenges and Solutions," **IEEE Communications Magazine**, 63(5): 214-221 (2025) **通信领域权威期刊**，IF:8.3 ![JCR Q1](https://img.shields.io/badge/JCR--Q1-9C27B0?style=flat-square) 
+
+25. `Yuntao Wang`, Han Liu, Zhendong Li, Zhou Su, and Jiliang Li, "Combating Advanced Persistent Threats: Challenges and Solutions," **IEEE Network**, 38(6): 324-333 (2024) **网络领域权威期刊**，IF:8.8 ![JCR Q1](https://img.shields.io/badge/JCR--Q1-9C27B0?style=flat-square) 
+
+27. `Yuntao Wang`, Zhou Su, and Miao Yan, "Social Metaverse: Challenges and Solutions," **IEEE Internet of Things Magazine**, 6(3): 144-150 (2023)**物联网领域旗舰期刊**，IF:5.8 ![JCR Q1](https://img.shields.io/badge/JCR--Q1-9C27B0?style=flat-square) 
+
+29. `Yuntao Wang`, Zhou Su, Ning Zhang, and Ruidong Li, "Mobile Wireless Rechargeable UAV Networks: Challenges and Solutions," **IEEE Communications Magazine**, 60(3): 33-39 (2022) **通信领域权威期刊**，IF:8.3 ![JCR Q1](https://img.shields.io/badge/JCR--Q1-9C27B0?style=flat-square) 
+
+33. `Yuntao Wang`, Zhou Su, Ning Zhang, and Dongliang Fang, "Disaster Relief Wireless Networks: Challenges and Solutions," **IEEE Wireless Communications**, 28(5): 148-155 (2021) **无线通信领域权威期刊**，IF:13.4 ![JCR Q1](https://img.shields.io/badge/JCR--Q1-9C27B0?style=flat-square) 
+
+35. `Yuntao Wang`, Zhou Su, Kuan Zhang, and Abderrahim Benslimane, "Challenges and Solutions in Autonomous Driving: A Blockchain Approach," **IEEE Network**, 34(4): 218-226 (2020) **网络领域权威期刊**，IF:8.8 ![JCR Q1](https://img.shields.io/badge/JCR--Q1-9C27B0?style=flat-square) 
+
+38. Yiheng Sun, Linkang Du, Zhou Su, `Yuntao Wang`, and Han Liu, "URLcoat: Exploiting Web Search Capability to Jailbreak Large Language Models," **Proceedings of IEEE S&P (Oakland)** (2026) ![CCF-A](https://img.shields.io/badge/CCF--A-red?style=flat-square) **Big Four Conferences** 
+
+39. Quan Zhao, Linkang Du, `Yuntao Wang`, Zhou Su, Zheng Li, Xiangshan Gao, and Yang Zhang, "Unveiling the Pitfalls of Data-Free Backdoor Detection Against Pre-Trained Models," **Proceedings of USENIX Security** (2026) ![CCF-A](https://img.shields.io/badge/CCF--A-red?style=flat-square) **Big Four** 
+
+1. Qinnan Hu, `Yuntao Wang`, Zhou Su, Tom H. Luan, and Ruidong Li, "ConWatcher: Towards Adaptive and Label-Efficient Online Smart Contract Analysis in Blockchains," **Proceedings of IEEE INFOCOM**, 1–10 (2025) ![CCF-A](https://img.shields.io/badge/CCF--A-red?style=flat-square) 
+
+2. Shaolong Guo, `Yuntao Wang`, Zhou Su, Tom H. Luan, "Incentivizing truthful machine unlearning via hierarchical auditing," **Proceedings of IJCAI**, 1-9 (2026) **Core A\* Conference**, **Accept rate:13.0%**
+
+4. Shaolong Guo, Yuntao Wang, Qinnan Hu, Zhou Su, Tom H. Luan, "Towards scalable metaverse systems with social-aware VR displays," **Proceedings of IJCAI**, 1-9 (2026) **Core A\* Conference**, **Accept rate:13.0%**
+
+5. Liang Xie, `Yuntao Wang`, Hengzhi Wang, and Laizhong Cui, "Long-Term Optimal Incentives for Differential-Privacy Federated Learning: A Multi-Stage Game Approach," **IEEE Transactions on Mobile Computing (TMC)**, 25: 1–16 (2026) ![CCF-A](https://img.shields.io/badge/CCF--A-red?style=flat-square) IF:7.9
+
+6. Qinnan Hu, `Yuntao Wang`, Zhou Su, Shaolong Guo, Yuan Gao, Nan Liu, and Tom H. Luan, "BlockAthena: A Scalable Approach for Long-Term Blockchain Crimes Analysis," **IEEE Transactions on Information Forensics and Security (TIFS)**, 21: 1–16 (2026) ![CCF-A](https://img.shields.io/badge/CCF--A-red?style=flat-square) IF:8.7
+
+7. Shaolong Guo, `Yuntao Wang`, Zhou Su, Yanghe Pan, Tom H. Luan, and Xizhao Luo, "FLET: Game-Theoretic Free-Riding Mitigation via Test Tasks in Federated Learning," **IEEE/ACM Transactions on Networking (TON)**, 34: 3995–4010 (2026) ![CCF-A](https://img.shields.io/badge/CCF--A-red?style=flat-square) IF:5.3
+
+8. Qinnan Hu, `Yuntao Wang`, Zhou Su, Tom H. Luan, Ruidong Li, and Zhenyu Jiang, "Rethinking Online Smart Contract Diagnosis in Blockchains: A Diffusion Perspective," **IEEE/ACM Transactions on Networking (TON)**, 34: 230–245 (2026) ![CCF-A](https://img.shields.io/badge/CCF--A-red?style=flat-square) IF:5.3
+
+9. Shaolong Guo, `Yuntao Wang`, Ning Zhang, Zhou Su, Tom H. Luan, Zhiyi Tian, and Xuemin Shen, "A Survey on Semantic Communication Networks: Architecture, Security, and Privacy," **IEEE Communications Surveys & Tutorials (COMST)**, 27(5): 2860–2894 (2025) ![IF](https://img.shields.io/badge/IF-50.6-red?style=flat-square) ![ESI Highly Cited](https://img.shields.io/badge/ESI%20Highly%20Cited-orange?style=flat-square) ![Citations](https://img.shields.io/badge/Cited%20by-123-blue?style=flat-square)  🔗 [PDF](https://arxiv.org/pdf/2405.01221) 
+
+10. Chao He, `Yuntao Wang`, Juan Hu, Tom H. Luan, Yuanguo Bi, and Zhou Su, "Collaborative Vehicular Threat Sharing: A Long-Term Contract-Based Incentive Mechanism With Privacy Preservation," **IEEE Transactions on Intelligent Transportation Systems (TITS)**, 25(12): 10258–10273 (2024) IF:9.1
+
+11. Liang Xie, Zhou Su, `Yuntao Wang`, Nan Chen, Yiliang Liu, Rui Wang, Xin Liu, Donglan Liu, and Hao Zhang, "A Privacy-Preserving Incentive Scheme for UAV-Aided Federated Learning: A Contract Method With Prospect Theory," **IEEE Transactions on Dependable and Secure Computing (TDSC)**, 22(6): 4521–4536 (2025) ![CCF-A](https://img.shields.io/badge/CCF--A-red?style=flat-square) IF:6.8
+
+12. Jinhao Zhou, Zhou Su, `Yuntao Wang`, and Jun Wu, "DM-DPL: Toward Discrete Matrixing Differentially Private Learning," **IEEE Transactions on Information Forensics and Security (TIFS)**, 20: 1432–1447 (2025) ![CCF-A](https://img.shields.io/badge/CCF--A-red?style=flat-square) IF:8.7
+
+13. Nan Liu, Tom H. Luan, `Yuntao Wang`, Yiliang Liu, and Zhou Su, "QoE-Oriented Cooperative VR Rendering and Dynamic Resource Leasing in Metaverse," **IEEE Transactions on Mobile Computing (TMC)**, 24(10): 5128–5143 (2025) ![CCF-A](https://img.shields.io/badge/CCF--A-red?style=flat-square) IF:7.9
+
+14. Yanghe Pan, Zhou Su, `Yuntao Wang`, Han Liu, Ruidong Li, and Abderrahim Benslimane, "Knowledge-Aware Privacy-Preserving Model Customization in Zero-Trust Federated Learning Model Marketplaces," **IEEE Journal on Selected Areas in Communications (JSAC)**, 43(6): 2108–2123 (2025) ![CCF-A](https://img.shields.io/badge/CCF--A-red?style=flat-square) IF:16.8
+
+15. Liang Xie, Zhou Su, `Yuntao Wang`, and Zhendong Li, "A Practical Federated Learning Framework With Truthful Incentive in UAV-Assisted Crowdsensing," **IEEE Transactions on Information Forensics and Security (TIFS)**, 20: 3021–3036 (2025) ![CCF-A](https://img.shields.io/badge/CCF--A-red?style=flat-square) IF:8.7
+
+16. Zixuan Wang, Jiliang Li, `Yuntao Wang`, Zhou Su, Shui Yu, and Weizhi Meng, "Optimal Repair Strategy Against Advanced Persistent Threats Under Time-Varying Networks," **IEEE Transactions on Information Forensics and Security (TIFS)**, 18: 2345–2360 (2023) ![CCF-A](https://img.shields.io/badge/CCF--A-red?style=flat-square) IF:8.7
+
+17. Liang Xie, Zhou Su, `Yuntao Wang`, "A Two-Stage Secure Incentive Mechanism in App-and UAV-Assisted Crowdsensing," **IEEE Transactions on Network and Service Management (TNSM)**, 21(5): 5234–5249 (2024) IF:4.7
+
+18. Yanghe Pan, Zhou Su, `Yuntao Wang`, Jinhao Zhou, and Mohamed Mahmoud, "Privacy-Preserving Byzantine-Robust Federated Learning via Deep Reinforcement Learning in Vehicular Networks," **IEEE Transactions on Vehicular Technology (TVT)**, 74(6): 9876–9891 (2025) IF:7.5
+
+19. Yanghe Pan, `Yuntao Wang`, Zhou Su, Yuan Gao, Shaolong Guo, Qinnan Hu, Ruidong Li, and WeiWei Li, "The Right to Be Forgotten Versus the Need to Be Remembered: Efficient Personalized Federated Unlearning With Optimal Incentives," **IEEE Transactions on Network Science and Engineering (TNSE)**, 13(2): 1125–1140 (2026) IF:7.3
+
+20. Rui Xing, Zhou Su, `Yuntao Wang`, "Collaborative Intrusion Detection Approach Based on Blockchain in Internet of Vehicles," **IEEE Internet of Things Journal (IoT-J)**, 12(9): 11568–11581 (2025) IF:8.7 ![JCR Q1](https://img.shields.io/badge/JCR--Q1-9C27B0?style=flat-square) 
+
+21. Yanghe Pan, Zhou Su, `Yuntao Wang`, Ruidong Li, and Yuan Wu, "Privacy-Enhanced and Efficient Federated Knowledge Transfer Framework in IoT," **IEEE Internet of Things Journal (IoT-J)**, 11(23): 38452–38465 (2024) IF:8.7 ![JCR Q1](https://img.shields.io/badge/JCR--Q1-9C27B0?style=flat-square) 
+
+22. Yiliang Liu, Zhou Su, `Yuntao Wang`, "Energy-Efficient and Physical-Layer Secure Computation Offloading in Blockchain-Empowered Internet of Things," **IEEE Internet of Things Journal (IoT-J)**, 10(8): 7123–7136 (2023) IF:8.7 ![JCR Q1](https://img.shields.io/badge/JCR--Q1-9C27B0?style=flat-square) 
+
+23. Shaolong Guo, `Yuntao Wang`, Zhou Su, Yanghe Pan, Qinnan Hu, and Tom H. Luan, "Agent Discovery in Internet of Agents: Challenges and Solutions," **IEEE Network**, (2026) Early Access, IF:8.8 ![JCR Q1](https://img.shields.io/badge/JCR--Q1-9C27B0?style=flat-square) 
+
+24. Yanghe Pan, `Yuntao Wang`, Shaolong Guo, Chengyu Yin, Ruidong Li, Zhou Su, and Yuan Wu, "Trustworthy Semantic Communication for Vehicular Networks: Challenges and Solutions," **IEEE Vehicular Technology Magazine**, (2025) Early Access, IF:8.4 ![JCR Q1](https://img.shields.io/badge/JCR--Q1-9C27B0?style=flat-square) 
+
+25. Yanghe Pan, Zhou Su, `Yuntao Wang`, Shaolong Guo, Han Liu, Ruidong Li, and Yuan Wu, "Cloud-Edge Collaborative Large Model Services: Challenges and Solutions," **IEEE Network**, 39(4): 56–63 (2025) IF:8.8 ![JCR Q1](https://img.shields.io/badge/JCR--Q1-9C27B0?style=flat-square) 
 
 
-- Xin Jin, Hongbao Ma, `Jian Tang`, Yihua Kang, A Self-Adaptive Vibration Reduction Method Based on Deep Deterministic Policy Gradient (DDPG) Reinforcement Learning Algorithm. *Applied Sciences*. 2022,12(9): 9703. (JCR:Q2; IF:2.838)  
-[[HTML]](https://dx.doi.org/10.3390/app12199703) [[Preview]](https://github.com/tangjyan/tangjyan.github.io/blob/main/pdf/JinX-2022-A%20Self-Adaptive%20Vibration%20Reduction%20Method%20Based%20on%20Deep%20Deterministic%20Policy.pdf) [[PDF]](/pdf/JinX-2022-A%20Self-Adaptive%20Vibration%20Reduction%20Method%20Based%20on%20Deep%20Deterministic%20Policy.pdf)
-
-- Jikai Zhang, Yuewen Huang, `Jian Tang`, Fangfang Zhou, Yihua Kang, Bo Feng. Inspection of Cracks in the Piston Rod of a Hydraulic Cylinder Using Injected Alternating Current-Field Measurement. *Water*. 2022 14(17):2736. (JCR:Q2; IF:3.530)  
-[[HTML]](https://dx.doi.org/10.3390/w14172736) [[Preview]](https://github.com/tangjyan/tangjyan.github.io/blob/main/pdf/ZhangJ-2022-Inspection%20of%20Cracks%20in%20the%20Piston%20Rod%20of%20a%20Hydraulic%20Cylinder%20Using%20Injected.pdf) [[PDF]](/pdf/ZhangJ-2022-Inspection%20of%20Cracks%20in%20the%20Piston%20Rod%20of%20a%20Hydraulic%20Cylinder%20Using%20Injected.pdf)
-
-
--	Shenghan Wang, Bo Feng, `Jian Tang`, Yanting Chen, Yihua Kang. A Novel AC-MFL Probe Based on the Parallel Cables Magnetizing Technique. *Journal of Nondestructive Evaluation*. 2022, 41(2): 39. (JCR:Q2; IF:1.995)  
-[[HTML]](https://dx.doi.org/10.1007/s10921-022-00872-3) [[Preview]](https://github.com/tangjyan/tangjyan.github.io/blob/main/pdf/WangS-2022-A%20Novel%20AC-MFL%20Probe%20Based%20on%20the%20Parallel%20Cables%20Magnetizing%20Technique.pdf) [[PDF]](/pdf/WangS-2022-A%20Novel%20AC-MFL%20Probe%20Based%20on%20the%20Parallel%20Cables%20Magnetizing%20Technique.pdf)
-
-
--	Rongbiao Wang, Yihua Kang, `Jian Tang`, Bo Feng, Yongle Deng. A Novel Magnetic Flux Leakage Testing Method Based on AC and DC Composite Magnetization. *Journal of Nondestructive Evaluation*. 2020, 39(4): 84. (JCR:Q2; IF:1.995)  
-[[HTML]](https://dx.doi.org/10.1007/s10921-020-00730-0) [[Preview]](https://github.com/tangjyan/tangjyan.github.io/blob/main/pdf/Wang-2020-A%20Novel%20Magnetic%20Flux%20Leakage%20Testing%20Method%20Based%20on%20AC%20and%20DC%20Composite.pdf) [[PDF]](/pdf/Wang-2020-A%20Novel%20Magnetic%20Flux%20Leakage%20Testing%20Method%20Based%20on%20AC%20and%20DC%20Composite.pdf)
-
-
-- Rongbiao Wang, `Jian Tang`, Zhiyang Deng, Yihua Kang. Motion induced eddy current based testing method for the detection of circumferential defects under circumferential magnetization. *International Journal of Applied Electromagnetics and Mechanics*. 2020, 64(1–4): 501–508. (JCR:Q4; IF:0.706)  
-[[HTML]](https://dx.doi.org/10.3233/JAE-209357) [[Preview]](https://github.com/tangjyan/tangjyan.github.io/blob/main/pdf/WangR-2020-Motion%20induced%20eddy%20current%20based%20testing%20method%20for%20the%20detection%20of.pdf) [[PDF]](/pdf/WangR-2020-Motion%20induced%20eddy%20current%20based%20testing%20method%20for%20the%20detection%20of.pdf)
-
-
--	Rongbiao Wang, Zhiyang Deng, Rui Liu, Yihua Kang, Jikai Zhang, `Jian Tang`. A large lift-off nondestructive testing method based on the interaction between AC magnetic field and MFL field. *23rd International Workshop on Electromagnetic Nondestructive Evaluation*, ENDE 2018. Detroit, MI, United States: IOS Press. 2019: 44–49. (EI)  
-[[HTML]](https://dx.doi.org/10.3233/SAEM190009) [[Preview]](https://github.com/tangjyan/tangjyan.github.io/blob/main/pdf/WangR-2019-A%20large%20lift-off%20nondestructive%20testing%20method%20based%20on%20the%20interaction%20between.pdf) [[PDF]](/pdf/WangR-2019-A%20large%20lift-off%20nondestructive%20testing%20method%20based%20on%20the%20interaction%20between.pdf)
-
-
-- Xiaoming Huang, Jianbo Wu, Jie Wang, Rongbiao Wang, `Jian Tang`, Yihua Kang, Hui Fang. Signal Characteristics of Circular Induction Coil Influenced by Scanning Spatial Location in MFL. *Materials Evaluation*. 2018, 76(12):1647–59. (JCR:Q4; IF:0.554)  
-[[HTML]](https://ndtlibrary.asnt.org/2018/SignalCharacteristicsofCircularInductionCoilInfluencedbyScanningSpatialLocationinMFL) [[Preview]](https://github.com/tangjyan/tangjyan.github.io/blob/main/pdf/Huang-2018-Signal%20Characteristics%20of%20Circular%20Induction%20Coil%20Influenced%20by%20Scanning.pdf) [[PDF]](/pdf/Huang-2018-Signal%20Characteristics%20of%20Circular%20Induction%20Coil%20Influenced%20by%20Scanning.pdf)
-
-
-
--	Erlong Li, Yihua Kang, `Jian Tang`, Jianbo Wu. A new micro magnetic bridge probe in magnetic flux leakage for detecting micro-cracks. *Journal of Nondestructive Evaluation*. 2018, 37(3): 46. (JCR:Q2; IF:1.995)  
-[[HTML]](https://dx.doi.org/10.1007/s10921-018-0499-8) [[Preview]](https://github.com/tangjyan/tangjyan.github.io/blob/main/pdf/Li-2018-A%20New%20Micro%20Magnetic%20Bridge%20Probe%20in%20Magnetic%20Flux%20Leakage%20for%20Detecting.pdf) [[PDF]](/pdf/Li-2018-A%20New%20Micro%20Magnetic%20Bridge%20Probe%20in%20Magnetic%20Flux%20Leakage%20for%20Detecting.pdf)
-
-
--	Erlong Li, Yihua Kang, `Jian Tang`, Jianbo Wu, Xizi Yan. Analysis on Spatial Spectrum of Magnetic Flux Leakage Using Fourier Transform. *IEEE Transactions on Magnetics*. 2018, 54(8): 1–10. (JCR:Q3; IF:1.700)  
-[[HTML]](https://dx.doi.org/10.1109/TMAG.2018.2844220) [[Preview]](https://github.com/tangjyan/tangjyan.github.io/blob/main/pdf/LiE-2018-Analysis%20on%20Spatial%20Spectrum%20of%20Magnetic%20Flux%20Leakage%20Using%20Fourier%20Transform.pdf) [[PDF]](/pdf/LiE-2018-Analysis%20on%20Spatial%20Spectrum%20of%20Magnetic%20Flux%20Leakage%20Using%20Fourier%20Transform.pdf)
-
-### Chinese
----
-
--	`Jian Tang`, Rongbiao Wang, Yihua Kang. Magnetic flux leakage nondestructive testing with large lift-off. *Nondestructive Testing*. 2022,44(4): 67.  
-唐健, 王荣彪, 康宜华. 大提离漏磁无损检测方法. *无损检测*. 2022,44(4): 67.  
-[[HTML]](https://dx.doi.org/10.11973/wsjc202204000) [[Preview]](https://github.com/tangjyan/tangjyan.github.io/blob/main/pdf/%E5%94%90%E5%81%A5-2022-%E5%A4%A7%E6%8F%90%E7%A6%BB%E6%BC%8F%E7%A3%81%E6%97%A0%E6%8D%9F%E6%A3%80%E6%B5%8B%E6%96%B9%E6%B3%95.pdf) [[PDF]](/pdf/%E5%94%90%E5%81%A5-2022-%E5%A4%A7%E6%8F%90%E7%A6%BB%E6%BC%8F%E7%A3%81%E6%97%A0%E6%8D%9F%E6%A3%80%E6%B5%8B%E6%96%B9%E6%B3%95.pdf)  
-
-
--	Bocheng Liu, `Jian Tang*`, Rongbiao Wang, Wenchao Ye, Yihua Kang. Magnetic Flux Leakage Testing Method of Bearing Roller Micro-cracks Based on TMR. *Instrument Technique and Sensor*. 2021(12): 111-114+118.   
-刘伯承, 唐健\*, 王荣彪, 叶文超, 康宜华. 基于TMR的轴承滚子微细裂纹漏磁检测方法. *仪表技术与传感器*. 2021(12): 111-114+118.  
-[[HTML]](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&dbname=CJFDAUTO&filename=YBJS202112021) [[Preview]](https://github.com/tangjyan/tangjyan.github.io/blob/main/pdf/%E5%88%98%E4%BC%AF%E6%89%BF-2021-%E5%9F%BA%E4%BA%8ETMR%E7%9A%84%E8%BD%B4%E6%89%BF%E6%BB%9A%E5%AD%90%E5%BE%AE%E7%BB%86%E8%A3%82%E7%BA%B9%E6%BC%8F%E7%A3%81%E6%A3%80%E6%B5%8B%E6%96%B9%E6%B3%95.pdf) [[PDF]](/pdf/%E5%88%98%E4%BC%AF%E6%89%BF-2021-%E5%9F%BA%E4%BA%8ETMR%E7%9A%84%E8%BD%B4%E6%89%BF%E6%BB%9A%E5%AD%90%E5%BE%AE%E7%BB%86%E8%A3%82%E7%BA%B9%E6%BC%8F%E7%A3%81%E6%A3%80%E6%B5%8B%E6%96%B9%E6%B3%95.pdf)  
-
--	Shenghan Wang, `Jian Tang*`, Jun Liu, Wenyu Chen, Yihua Kang. Array Magnetic Flux Leakage Testing Method and System Based on Twin-Robot Operation for Bearings. *Bearing*. 2021(01): 54-58+65.  
-汪圣涵, 唐健\*, 刘军, 陈文宇, 康宜华. 双机械手操作的轴承阵列漏磁检测方法与系统. *轴承*. 2021(01): 54-58+65.  
-[[HTML]](https://dx.doi.org/10.19533/j.issn1000-3762.2021.01.011) [[Preview]](https://github.com/tangjyan/tangjyan.github.io/blob/main/pdf/%E6%B1%AA%E5%9C%A3%E6%B6%B5-2021-%E5%8F%8C%E6%9C%BA%E6%A2%B0%E6%89%8B%E6%93%8D%E4%BD%9C%E7%9A%84%E8%BD%B4%E6%89%BF%E9%98%B5%E5%88%97%E6%BC%8F%E7%A3%81%E6%A3%80%E6%B5%8B%E6%96%B9%E6%B3%95%E4%B8%8E%E7%B3%BB%E7%BB%9F.pdf) [[PDF]](/pdf/%E6%B1%AA%E5%9C%A3%E6%B6%B5-2021-%E5%8F%8C%E6%9C%BA%E6%A2%B0%E6%89%8B%E6%93%8D%E4%BD%9C%E7%9A%84%E8%BD%B4%E6%89%BF%E9%98%B5%E5%88%97%E6%BC%8F%E7%A3%81%E6%A3%80%E6%B5%8B%E6%96%B9%E6%B3%95%E4%B8%8E%E7%B3%BB%E7%BB%9F.pdf)  
-
--	Yongle Deng, Rongbiao Wang, `Jian Tang`, Shenghan Wang, Yihua Kang. Magnetic bridge type displacement sensor array in square pulse magnetization. *Chinese Journal of Scientific Instrument*. 2021: 1–10. (EI)  
-邓永乐, 王荣彪, 唐健, 汪圣涵, 康宜华. 基于脉冲磁化的阵列磁桥式位移传感器. *仪器仪表学报*. 2021: 1–10.  
-[[HTML]](https://dx.doi.org/10.19650/j.cnki.cjsi.J2107388) [[Preview]](https://github.com/tangjyan/tangjyan.github.io/blob/main/pdf/%E9%82%93%E6%B0%B8%E4%B9%90-2021-%E5%9F%BA%E4%BA%8E%E8%84%89%E5%86%B2%E7%A3%81%E5%8C%96%E7%9A%84%E9%98%B5%E5%88%97%E7%A3%81%E6%A1%A5%E5%BC%8F%E4%BD%8D%E7%A7%BB%E4%BC%A0%E6%84%9F%E5%99%A8.pdf) [[PDF]](/pdf/%E9%82%93%E6%B0%B8%E4%B9%90-2021-%E5%9F%BA%E4%BA%8E%E8%84%89%E5%86%B2%E7%A3%81%E5%8C%96%E7%9A%84%E9%98%B5%E5%88%97%E7%A3%81%E6%A1%A5%E5%BC%8F%E4%BD%8D%E7%A7%BB%E4%BC%A0%E6%84%9F%E5%99%A8.pdf)  
-
-
--	Rongbiao Wang, Yihua Kang, Yongle Deng, Biyao Wang, Shenghan Wang, `Jian Tang`. Detection Method for Internal Wall Corrosion of Drill Pipes Based on MFL Testing under AC and DC Magnetization. *China Mechanical Engineering* . 2020: 1–6. (EI)  
-王荣彪, 康宜华, 邓永乐, 王碧瑶, 汪圣涵, 唐健. 钻杆内壁腐蚀的交直流复合磁化漏磁检测方法. *中国机械工程*. 2020: 1–6.  
-[[HTML]](https://dx.doi.org/10.3969/j.issn.1004-132X.2021.02.001) [[Preview]](https://github.com/tangjyan/tangjyan.github.io/blob/main/pdf/%E7%8E%8B%E8%8D%A3%E5%BD%AA-2020-%E9%92%BB%E6%9D%86%E5%86%85%E5%A3%81%E8%85%90%E8%9A%80%E7%9A%84%E4%BA%A4%E7%9B%B4%E6%B5%81%E5%A4%8D%E5%90%88%E7%A3%81%E5%8C%96%E6%BC%8F%E7%A3%81%E6%A3%80%E6%B5%8B%E6%96%B9%E6%B3%95.pdf) [[PDF]](/pdf/%E7%8E%8B%E8%8D%A3%E5%BD%AA-2020-%E9%92%BB%E6%9D%86%E5%86%85%E5%A3%81%E8%85%90%E8%9A%80%E7%9A%84%E4%BA%A4%E7%9B%B4%E6%B5%81%E5%A4%8D%E5%90%88%E7%A3%81%E5%8C%96%E6%BC%8F%E7%A3%81%E6%A3%80%E6%B5%8B%E6%96%B9%E6%B3%95.pdf)  
-
--	Bocheng Liu, Zhaoqi Duan, Chun Jiang, `Jian Tang`, Yihua Kang. Magnetic flux leakage detection of bearing roller microcracks. *Bearing*. 2021(08): 32–38.  
-刘伯承, 唐健, 王荣彪, 康宜华, 余平. 基于交流通电的钢球微细裂纹电磁检测方法. *轴承*. 2021(08): 32–38.  
-[[HTML]](https://dx.doi.org/10.19533/j.issn1000-3762.2021.08.007) [[Preview]](https://github.com/tangjyan/tangjyan.github.io/blob/main/pdf/%E5%88%98%E4%BC%AF%E6%89%BF-2021-%E5%9F%BA%E4%BA%8E%E4%BA%A4%E6%B5%81%E9%80%9A%E7%94%B5%E7%9A%84%E9%92%A2%E7%90%83%E5%BE%AE%E7%BB%86%E8%A3%82%E7%BA%B9%E7%94%B5%E7%A3%81%E6%A3%80%E6%B5%8B%E6%96%B9%E6%B3%95.pdf) [[PDF]](/pdf/%E5%88%98%E4%BC%AF%E6%89%BF-2021-%E5%9F%BA%E4%BA%8E%E4%BA%A4%E6%B5%81%E9%80%9A%E7%94%B5%E7%9A%84%E9%92%A2%E7%90%83%E5%BE%AE%E7%BB%86%E8%A3%82%E7%BA%B9%E7%94%B5%E7%A3%81%E6%A3%80%E6%B5%8B%E6%96%B9%E6%B3%95.pdf) 
-
--	Bocheng Liu, `Jian Tang`, Rongbiao Wang, Yihua Kang, Ping Yu. Electromagnetic Detection Method for Microcracks on Steel Balls Based on Alternating Current Energization. *Nondestructive Testing*. 2022, 44(11): 1-5.  
-刘伯承, 段兆祺, 姜春, 唐健, 康宜华. 轴承滚子微细裂纹的漏磁检测. *无损检测*, 2022, 44(11): 1-5.  
-[[HTML]](https://dx.doi.org/10.11973/wsjc202211001) [[Preview]](https://github.com/tangjyan/tangjyan.github.io/blob/main/pdf/%E5%88%98%E4%BC%AF%E6%89%BF-2022-%E8%BD%B4%E6%89%BF%E6%BB%9A%E5%AD%90%E5%BE%AE%E7%BB%86%E8%A3%82%E7%BA%B9%E7%9A%84%E6%BC%8F%E7%A3%81%E6%A3%80%E6%B5%8B.pdf) [[PDF]](/pdf/%E5%88%98%E4%BC%AF%E6%89%BF-2022-%E8%BD%B4%E6%89%BF%E6%BB%9A%E5%AD%90%E5%BE%AE%E7%BB%86%E8%A3%82%E7%BA%B9%E7%9A%84%E6%BC%8F%E7%A3%81%E6%A3%80%E6%B5%8B.pdf)  
-
-
--	Jie Meng, Erlong Li, `Jian Tang`, Yihua Kang. High Speed Magnetic Flux Leakage Detection System for Microcracks on Bearing Rings. *Bearing*. 2018(08): 66–70.  
-孟杰, 李二龙, 唐健, 康宜华. 轴承套圈裂纹高速漏磁检测系统. *轴承*. 2018(08): 66–70.  
-[[HTML]](https://dx.doi.org/10.19533/j.issn1000-3762.2018.08.015) [[Preview]](https://github.com/tangjyan/tangjyan.github.io/blob/main/pdf/%E5%AD%9F%E6%9D%B0-2018-%E8%BD%B4%E6%89%BF%E5%A5%97%E5%9C%88%E8%A3%82%E7%BA%B9%E9%AB%98%E9%80%9F%E6%BC%8F%E7%A3%81%E6%A3%80%E6%B5%8B%E7%B3%BB%E7%BB%9F.pdf) [[PDF]](/pdf/%E5%AD%9F%E6%9D%B0-2018-%E8%BD%B4%E6%89%BF%E5%A5%97%E5%9C%88%E8%A3%82%E7%BA%B9%E9%AB%98%E9%80%9F%E6%BC%8F%E7%A3%81%E6%A3%80%E6%B5%8B%E7%B3%BB%E7%BB%9F.pdf)  
-
-
--	Hang Yang, Shenghan Wang, `Jian Tang`, Yihua Kang. Automatic eddy current testing method and system for camshaft. *Nondestructive Testing*. 2020, 42(11): 61.  
-杨航, 汪圣涵, 唐健, 康宜华. 凸轮轴的自动化涡流检测方法与系统. *无损检测*. 2020, 42(11): 61.  
-[[HTML]](https://dx.doi.org/10.11973/wsjc202011013) [[Preview]](https://github.com/tangjyan/tangjyan.github.io/blob/main/pdf/%E6%9D%A8%E8%88%AA-2020-%E5%87%B8%E8%BD%AE%E8%BD%B4%E7%9A%84%E8%87%AA%E5%8A%A8%E5%8C%96%E6%B6%A1%E6%B5%81%E6%A3%80%E6%B5%8B%E6%96%B9%E6%B3%95%E4%B8%8E%E7%B3%BB%E7%BB%9F.pdf) [[PDF]](/pdf/%E6%9D%A8%E8%88%AA-2020-%E5%87%B8%E8%BD%AE%E8%BD%B4%E7%9A%84%E8%87%AA%E5%8A%A8%E5%8C%96%E6%B6%A1%E6%B5%81%E6%A3%80%E6%B5%8B%E6%96%B9%E6%B3%95%E4%B8%8E%E7%B3%BB%E7%BB%9F.pdf)  
-
-
-
+<span class='anchor' id='-gjjx'></span>
 
 # 🏅 Honors and Awards
-- *2015.11*  Win the `1st Prize` in the 14th "Challenge Cup" National Undergraduate Curricular Academic Science and Technology Works Competition.
-- *2015.06* Win the `1st Prize` in the 13rd  "Challenge Cup" Sichuan Undergraduate Curricular Academic Science and Technology Works Competition. [[Newsreport]](https://www.sc.gov.cn/10462/10778/10876/2015/7/1/10341562.shtml)
-- *2014.12* Win the `1st Prize` in the 4th National Undergraduate Engineering Training Integration Ability Competition (Sichuan Division).
+- **2025 Clarivate Highly Cited Researchers**
+- **2023 National Postdoctoral Program for Innovative Talent (Boxin Plan)**
+- **2024 CIE Outstanding Doctoral Dissertation**
+- 2023~2025 **World's Top 2% Scientists**
+- **Shaanxi Province First Prize in Natural Science** (Ranked 4th)
+- **IEEE BigDataSE2019 (New Zealand) Best Paper Award**, 2019, IEEE Computer Society
+- **IEEE IWCMC2022 (Croatia) Best Paper Award**, 2022, IEEE Communications Society
+- **IEEE SmartCloud2024 (New York, USA) Best Paper Award**, 2024, IEEE Computer Society
+- **IEEE AIoT2024 (Australia) Best Paper Award**, 2024, IEEE Communications Society
+- **IEEE MetaCom2025 (South Korea) Best Paper Award**, 2025, IEEE Communications Society
 
-# 💬 Conferences
+<span class='anchor' id='-xsfw'></span>
 
-- *2021.10*, National Seminar on Electromagnetic Nondestructive Testing Technology and the 14th Plenary Session of the 11th Session of the Electromagnetic Professional Technology Conference of China, Xian China, Oral.
-- *2019.09*, The 19th International Symposium on Applied Electromagnetics and Mechanics (ISEM 2019), Nanjing China, Poster.
-- *2017.10*, The 6th China International Pipeline Conference (CIPC 2017), Langfang China, Visit.
-
-
-# 🏭 Internships
-- *2018.05 - 2020.02*, Chongqing Changjiang Bearing Co., Ltd., Chongqing China.
-- *2020.11.25 - 2020.12.02*, Hubei Xinyegang Steel Ltd., Huangshi China.
-- *2017.6 - 2021.1*, Wuhan Huayu-M Testing Equipment Co., Ltd., Wuhan China.
-  
+# 🏛️ Academic Services
+1. Editorial Board Member
+- Youth Editorial Board Member, Journal of Electronics and Information Technology
+- Editorial Board Member, Special Topic on UAV Network Security in the Journal of CyberSecurity
+1. Reviewer for
+- IEEE Transactions on Dependable and Secure Computing(CCFA，JCR一区，IF：6.791)
+- IEEE Transactions on Information Forensics and Security(CCFA，JCR一区，IF：7.231)
+- IEEE Journal on Selected Areas in Communications (CCF A，JCR 一区，IF：13.081)
+- IEEE Transactions on Mobile Computing (CCF A，JCR 一区，IF：6.075)
+- IEEE Transactions on Smart Grid (JCR 一区，IF：10.275)
+- ACM Computing Surveys (JCR 一区，IF：14.324)
+- IEEE Transactions on Industrial Informatics (JCR 一区，IF：6.239)
+- IEEE Transactions on Vehicular Technology (JCR 一区，IF：11.648)
+- IEEE Transactions on Intelligent Transportation Systems (JCR 一区，IF：9.551)
+- IEEE Transactions on Systems, Man and Cybernetics: Systems (JCR 一区，IF：11.471)
+- IEEE Transactions on Network Science and Engineering (JCR 一区，IF：5.033)
+- IEEE Transactions on Network and Service Management (JCR 一区，IF：4.758)
+- IEEE Transactions on Intelligent Vehicles (JCR 一区，IF：5.009)
+- IEEE Transactions on Sustainable Computing (JCR 一区，IF：4.908)
+- IEEE Transactions on Artificial Intelligence(JCR 一区)
+- IEEE Transactions on Energy Markets, Policy and Regulation(JCR 一区)
+- IEEE Internet of Things Journal (JCR 一区，IF：10.238)
+- IEEE Communications Magazine (JCR 一区，IF：9.03)
+- TPC member of IEEE ICC24~26, GlobeCom24~26, VTC24~26, IEEE INFOCOM ICCN 2023, IEEE WCSP'19, IEEE WCSP'23
+- Session Chair of IEEE ICC'23 - CISS Symposium (Rome, Italy)
+1. TPC member of
+- ICC24~26, GlobeCom24~26, VTC24~26, IEEE INFOCOM ICCN 2023, IEEE WCSP'19, IEEE WCSP'23
+2. Session Chair of IEEE ICC'23 - CISS Symposium (Rome, Italy)
