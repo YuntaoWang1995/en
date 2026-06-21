@@ -39,7 +39,7 @@ Email:  yuntao.wang@xjtu.edu.cn
 
 # 📝 Publications
 
-1. `Yuntao Wang`, Zhou Su, Ning Zhang, Rui Xing, Dongxiao Liu, Tom H. Luan, and Xuemin Shen, "A Survey on Metaverse: Fundamentals, Security, and Privacy," **IEEE Communications Surveys & Tutorials (COMST)**, 25(1): 319-352 (2023) ![IF](https://img.shields.io/badge/IF-50.6-red?style=flat-square) **IF:50.6** ![ESI Hot](https://img.shields.io/badge/ESI%20Hot%20Paper-🔥-red?style=flat-square) ![Citations](https://img.shields.io/badge/Cited%20by-2100-blue?style=flat-square)  🔗 [PDF](https://arxiv.org/pdf/2203.02662) 
+1. `Yuntao Wang`, Zhou Su, Ning Zhang, Rui Xing, Dongxiao Liu, Tom H. Luan, and Xuemin Shen, "A Survey on Metaverse: Fundamentals, Security, and Privacy," **IEEE Communications Surveys & Tutorials (COMST)**, 25(1): 319-352 (2023) ![IF](https://img.shields.io/badge/IF-50.6-red?style=flat-square) ![ESI Hot](https://img.shields.io/badge/ESI%20Hot%20Paper-🔥-red?style=flat-square) ![Citations](https://img.shields.io/badge/Cited%20by-2100-blue?style=flat-square)  🔗 [PDF](https://arxiv.org/pdf/2203.02662) 
 
 2. `Yuntao Wang`, Weiwei Chen, Tom H. Luan, Zhou Su, Qichao Xu, Ruidong Li, and Nan Chen, "Task Offloading for Post-Disaster Rescue in Unmanned Aerial Vehicles Networks," **IEEE/ACM Transactions on Networking (TON)**, 30(4): 1525-1539 (2022) ![CCF-A](https://img.shields.io/badge/CCF--A-red?style=flat-square) IF:5.3 ![Citations](https://img.shields.io/badge/Cited%20by-163-blue?style=flat-square) 
 
@@ -59,9 +59,9 @@ Email:  yuntao.wang@xjtu.edu.cn
 
 10. Zhou Su, `Yuntao Wang`, Qichao Xu, and Ning Zhang, "LVBS: Lightweight Vehicular Blockchain for Secure Data Sharing in Disaster Rescue," **IEEE Transactions on Dependable and Secure Computing (TDSC)**, 19(1): 19-32 (2022) ![CCF-A](https://img.shields.io/badge/CCF--A-red?style=flat-square) IF:6.8 ![ESI Hot](https://img.shields.io/badge/ESI%20Hot%20Paper-🔥-red?style=flat-square) ![Citations](https://img.shields.io/badge/Cited%20by-280-blue?style=flat-square) 
 
-11. `Yuntao Wang`, Zhou Su, Jianbing Ni, Ning Zhang, and Xuemin Shen, "Blockchain-Empowered Space-Air-Ground Integrated Networks: Opportunities, Challenges, and Solutions," **IEEE Communications Surveys & Tutorials (COMST)**, 24(1): 160-209 (2022) ![IF](https://img.shields.io/badge/IF-50.6-red?style=flat-square) **IF:50.6** ![ESI Highly Cited](https://img.shields.io/badge/ESI%20Highly%20Cited-orange?style=flat-square) ![Citations](https://img.shields.io/badge/Cited%20by-259-blue?style=flat-square) 
+11. `Yuntao Wang`, Zhou Su, Jianbing Ni, Ning Zhang, and Xuemin Shen, "Blockchain-Empowered Space-Air-Ground Integrated Networks: Opportunities, Challenges, and Solutions," **IEEE Communications Surveys & Tutorials (COMST)**, 24(1): 160-209 (2022) ![IF](https://img.shields.io/badge/IF-50.6-red?style=flat-square) ![ESI Highly Cited](https://img.shields.io/badge/ESI%20Highly%20Cited-orange?style=flat-square) ![Citations](https://img.shields.io/badge/Cited%20by-259-blue?style=flat-square) 
 
-12. `Yuntao Wang`, Yanghe Pan, Zhou Su, Yi Deng, Quan Zhao, Linkang Du, Tom H. Luan, Jiawen Kang, and Dusit Niyato, "Large Model-Based Agents: State-of-the-Art, Cooperation Paradigms, Security and Privacy, and Future Trends," **IEEE Communications Surveys & Tutorials (COMST)**, 28: 1906-1949 (2026) ![IF](https://img.shields.io/badge/IF-50.6-red?style=flat-square) **IF:50.6** ![ESI Highly Cited](https://img.shields.io/badge/ESI%20Highly%20Cited-orange?style=flat-square) ![Citations](https://img.shields.io/badge/Cited%20by-92-blue?style=flat-square) 🔗 [PDF](https://arxiv.org/pdf/2409.14457) 
+12. `Yuntao Wang`, Yanghe Pan, Zhou Su, Yi Deng, Quan Zhao, Linkang Du, Tom H. Luan, Jiawen Kang, and Dusit Niyato, "Large Model-Based Agents: State-of-the-Art, Cooperation Paradigms, Security and Privacy, and Future Trends," **IEEE Communications Surveys & Tutorials (COMST)**, 28: 1906-1949 (2026) ![IF](https://img.shields.io/badge/IF-50.6-red?style=flat-square) ![ESI Highly Cited](https://img.shields.io/badge/ESI%20Highly%20Cited-orange?style=flat-square) ![Citations](https://img.shields.io/badge/Cited%20by-92-blue?style=flat-square) 🔗 [PDF](https://arxiv.org/pdf/2409.14457) 
 
 13. `Yuntao Wang`, Zhou Su, Ning Zhang, and Abderrahim Benslimane, "Learning in the Air: Secure Federated Learning for UAV-Assisted Crowdsensing," **IEEE Transactions on Network Science and Engineering (TNSE)**, 8(2): 1055-1069 (2021) IF:7.3 ![ESI Highly Cited](https://img.shields.io/badge/ESI%20Highly%20Cited-orange?style=flat-square) ![Citations](https://img.shields.io/badge/Cited%20by-365-blue?style=flat-square) 
 
@@ -119,9 +119,9 @@ Email:  yuntao.wang@xjtu.edu.cn
 
 1. Qinnan Hu, `Yuntao Wang`, Zhou Su, Tom H. Luan, and Ruidong Li, "ConWatcher: Towards Adaptive and Label-Efficient Online Smart Contract Analysis in Blockchains," **Proceedings of IEEE INFOCOM**, 1–10 (2025) ![CCF-A](https://img.shields.io/badge/CCF--A-red?style=flat-square) 
 
-2. Shaolong Guo, `Yuntao Wang`, Zhou Su, Tom H. Luan, "Incentivizing truthful machine unlearning via hierarchical auditing," **Proceedings of IJCAI**, 1-9 (2026) **Core A\* Conference**, **Accept rate:13.0%**
+2. Shaolong Guo, `Yuntao Wang`*, Zhou Su*, Tom H. Luan, "Incentivizing truthful machine unlearning via hierarchical auditing," **Proceedings of IJCAI**, 1-9 (2026) **Core A\* Conference**, **Accept rate:13.0%** (*Corresponding Author)
 
-4. Shaolong Guo, Yuntao Wang, Qinnan Hu, Zhou Su, Tom H. Luan, "Towards scalable metaverse systems with social-aware VR displays," **Proceedings of IJCAI**, 1-9 (2026) **Core A\* Conference**, **Accept rate:13.0%**
+4. Shaolong Guo, `Yuntao Wang`*, Qinnan Hu, Zhou Su*, Tom H. Luan, "Towards scalable metaverse systems with social-aware VR displays," **Proceedings of IJCAI**, 1-9 (2026) **Core A\* Conference**, **Accept rate:13.0%** (*Corresponding Author)
 
 5. Liang Xie, `Yuntao Wang`, Hengzhi Wang, and Laizhong Cui, "Long-Term Optimal Incentives for Differential-Privacy Federated Learning: A Multi-Stage Game Approach," **IEEE Transactions on Mobile Computing (TMC)**, 25: 1–16 (2026) ![CCF-A](https://img.shields.io/badge/CCF--A-red?style=flat-square) IF:7.9
 
