@@ -16,12 +16,13 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
-Wang Yuntao, Associate Professor, PhD supervisor
+**Wang Yuntao, Associate Professor, PhD supervisor**
 
 📌Published papers in top journals/conference such as IEEE S&P, USENIX Security, IEEE TIFS, and IEEE TDSC in the field of network security; IEEE/ACM TON, and IEEE JSAC in the field of computer networks; IEEE INFOCOM in the field of communication. 
 
 
 Office address: Pengkang Building, No. 28 Xianning West Road, Beilin District, Xi'an, Shaanxi Province, 710049
+
 Email:  yuntao.wang@xjtu.edu.cn
 
 <span class='anchor' id='-educations'></span>
