@@ -179,6 +179,7 @@ Email:  yuntao.wang@xjtu.edu.cn
 - **IEEE SmartCloud2024 (New York, USA) Best Paper Award**, 2024, IEEE Computer Society
 - **IEEE AIoT2024 (Australia) Best Paper Award**, 2024, IEEE Communications Society
 - **IEEE MetaCom2025 (South Korea) Best Paper Award**, 2025, IEEE Communications Society
+- IEEE TNSE Feature Article, 2021
 
 <span class='anchor' id='services'></span>
 
