@@ -20,6 +20,9 @@ redirect_from:
 
 📌Published papers in top journals/conference such as IEEE S&P, USENIX Security, IEEE TIFS, and IEEE TDSC in the field of network security; IEEE/ACM TON, and IEEE JSAC in the field of computer networks; IEEE INFOCOM in the field of communication. 
 
+<a href="https://scholar.google.com/citations?user=90fr-8wAAAAJ" target="_blank" rel="noopener">
+  <img src="https://img.shields.io/badge/Google%20Scholar-Citations-blue?logo=googlescholar&logoColor=white" alt="Google Scholar">
+</a>
 
 Office address: Pengkang Building, No. 28 Xianning West Road, Beilin District, Xi'an, Shaanxi Province, 710049
 
