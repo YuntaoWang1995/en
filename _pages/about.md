@@ -37,7 +37,7 @@ Email:  yuntao.wang@xjtu.edu.cn
  
 <span class='anchor' id='-publications'></span>
 
-# 📝 Publications
+# 📝 Selected Publications
 
 1. `Yuntao Wang`, Zhou Su, Ning Zhang, Rui Xing, Dongxiao Liu, Tom H. Luan, and Xuemin Shen, "A Survey on Metaverse: Fundamentals, Security, and Privacy," **IEEE Communications Surveys & Tutorials (COMST)**, 25(1): 319-352 (2023) ![IF](https://img.shields.io/badge/IF-50.6-red?style=flat-square) ![ESI Hot](https://img.shields.io/badge/ESI%20Hot%20Paper-🔥-red?style=flat-square) ![Citations](https://img.shields.io/badge/Cited%20by-2100-blue?style=flat-square)  🔗 [PDF](https://arxiv.org/pdf/2203.02662) 
 
