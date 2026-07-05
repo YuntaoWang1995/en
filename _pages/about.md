@@ -31,9 +31,9 @@ Email:  yuntao.wang@xjtu.edu.cn
 <span class='anchor' id='-educations'></span>
 
 # 🎓 Education & Work Experience
-- *2022.9*, PhD. Xi'an Jiaotong University.
-- *2022.12*, Assistant Professor, Master's supervisor, Xi'an Jiaotong University.
-- *2026.6*, Associate Professor, PhD supervisor, Xi'an Jiaotong University.
+- *2022*, PhD. Xi'an Jiaotong University.
+- *2022*, Assistant Professor, Master's supervisor, Xi'an Jiaotong University.
+- *2026*, Associate Professor, PhD supervisor, Xi'an Jiaotong University.
  
 <span class='anchor' id='-publications'></span>
 
