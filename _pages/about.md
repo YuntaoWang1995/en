@@ -16,7 +16,7 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
-**Wang Yuntao, Associate Professor, PhD supervisor, School of Cyber Science and Engineering, Xi'an JiaoTong University (XJTU)**
+**Wang Yuntao, tenure-track Associate Professor, PhD supervisor, School of Cyber Science and Engineering, Xi'an JiaoTong University (XJTU)**
 
 📌Published papers in top journals/conference such as IEEE S&P, USENIX Security, IEEE TIFS, and IEEE TDSC in the field of network security; IEEE/ACM TON, and IEEE JSAC in the field of computer networks; IEEE INFOCOM in the field of communication. 
 
